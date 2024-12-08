@@ -1,3 +1,3 @@
-# Data Analyst Portfolio Projects
+# Data Analytics Portfolio Projects
 
 This repository contains my portfolio projects.
